@@ -1,3 +1,1 @@
-<video src="VideoDemo.mp4" width="640" height="480" controls>
-  Aapka browser video support nahi karta.
-</video>
+[![Watch Project Demo](https://img.youtube.com/vi/KOpTY-ZeEAE/hqdefault.jpg)](https://youtu.be/KOpTY-ZeEAE)
